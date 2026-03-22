@@ -1,4 +1,4 @@
-# Java Projects Collection 🚀
+# gui java
 
 This repository contains multiple Java projects built to practice core programming concepts and real-world logic.
 
